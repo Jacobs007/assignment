@@ -8,7 +8,7 @@ This notebook analyses by means of a multisector Schumpeterian growth model the 
 
 **Note**: the [HTML](https://github.com/Jacobs007/assignment/blob/master/HTML%20code.ipynb) we wrote to refer to sections within the notebook is hidden and not working properly on Github. Strangely two of the equations in section one are not uploaded properly, we tried to solve this issue but were little fruitful. 
 
-[Assignment Applied Economic Analysis in .ipynb](https://github.com/Jacobs007/assignment/blob/master/Applied%20Economic%20Analysis%201%20Assignment%20Schumpeterian%20Model(1).ipynb)
+[Assignment Applied Economic Analysis in .ipynb](https://github.com/Jacobs007/assignment/blob/master/Applied%20Economic%20Analysis%201%20Assignment%20Schumpeterian%20Model(6).ipynb)
 
 
 [Assignment Applied Economic Analysis in .html](https://github.com/Jacobs007/assignment/blob/master/Applied%20Economic%20Analysis%201%20Assignment%20Schumpeterian%20Model(1).html)
